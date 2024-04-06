@@ -1,0 +1,13 @@
+#labelinput{
+    display: block;
+    text-align: right;
+    border: solid;
+    border-radius: 5px;
+    font-size: 3em;
+}
+#btnscontainer{
+    text-align: center;
+}
+#btns{
+    font-size: 5em;
+}
